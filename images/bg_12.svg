@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg824"
+   width="850"
+   height="478"
+   viewBox="0 0 850 478"
+   sodipodi:docname="bg_12.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs828">
+    <linearGradient
+       id="linearGradient2734"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2732" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6714"
+       x="-0.32147662"
+       y="-0.65833494"
+       width="1.6429532"
+       height="2.3166699">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="80.546281"
+         id="feGaussianBlur6716" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview826"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.71176471"
+     inkscape:cx="726.36364"
+     inkscape:cy="181.94215"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g830" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g830">
+    <image
+       width="180"
+       height="142"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAACOCAYAAACYLCL5AAAABHNCSVQICAgIfAhkiAAAAaBJREFU
+eJzt1MEJgDAABEHjx5rt1yLyi00EAstMBfdYbjzvty6IuE8PgJ0ETYqgSRE0KYImRdCkCJoUQZMi
+aFIETYqgSRE0KYImRdCkCJoUQZMiaFIETYqgSRE0KYImRdCkCJoUQZMiaFIETYqgSRE0KYImRdCk
+CJoUQZMiaFIETYqgSRE0KYImRdCkCJoUQZMiaFIETYqgSRE0KYImRdCkCJoUQZMiaFIETYqgSRE0
+KYImRdCkCJoUQZMiaFIETYqgSRE0KYImRdCkCJoUQZMiaFIETYqgSRE0KYImRdCkCJoUQZMiaFIE
+TcqYc67TI2AXD02KoEkRNCmCJkXQpAiaFEGTImhSBE2KoEkRNCmCJkXQpAiaFEGTImhSBE2KoEkR
+NCmCJkXQpAiaFEGTImhSBE2KoEkRNCmCJkXQpAiaFEGTImhSBE2KoEkRNCmCJkXQpAiaFEGTImhS
+BE2KoEkRNCmCJkXQpAiaFEGTImhSBE2KoEkRNCmCJkXQpAiaFEGTImhSBE2KoEkRNCmCJkXQpAia
+FEGTImhSBE2KoEn5Aet4B2VmujmAAAAAAElFTkSuQmCC
+"
+       id="image922"
+       x="1313.5537"
+       y="-101.90909" />
+    <rect
+       style="fill:none;fill-opacity:1"
+       id="rect948"
+       width="850"
+       height="478"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#0779e4;fill-opacity:1"
+       id="rect6620"
+       width="850"
+       height="478"
+       x="0"
+       y="0" />
+    <ellipse
+       style="mix-blend-mode:normal;fill:#0cc8fc;fill-opacity:1;filter:url(#filter6714)"
+       id="path6690"
+       cx="444.99173"
+       cy="258.09091"
+       rx="300.66116"
+       ry="146.81818" />
+  </g>
+</svg>
