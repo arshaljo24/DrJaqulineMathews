@@ -3,7 +3,7 @@
   <head>
     <title>Dr . Jaquline Mathews</title>
     <link rel = "icon" href = 
-"https://png.pngtree.com/element_our/20190528/ourmid/pngtree-blue-sketch-circle-image_1177862.jpg" 
+"https://static.vecteezy.com/system/resources/previews/002/896/807/original/female-doctor-using-her-digital-tablet-free-vector.jpg" 
         type = "image/x-icon">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -242,7 +242,7 @@
                 <!--<p>Far far away, behind the word mountains</p>-->
               </div>
               <div class="col-md-4 border-left d-flex align-items-center">
-                <p class="w-100"><a href="#ftco-intro py-5 bg-primary" class="btn btn-white btn-outline-white d-block py-3">Monday - Saturday<br>10:00am to 12:00 pm</a></p>
+                <p class="w-100"><a href="#ftco-intro py-5 bg-primary" class="btn btn-white btn-outline-white d-block py-3">Monday - Saturday<br>10:00am to 01:00 pm</a></p>
               </div>
             </div>
           </div>
@@ -695,10 +695,10 @@
                     <div class="w-100 social-media mt-5">
                       <h3>Follow me here</h3>
                       <p>
-                        <a href="https://www.facebook.com/jaqulinemathews.mathews">Facebook</a>
-                        <a href="https://www.facebook.com/DrJaqulineMathews">Facebook Page</a>
-                        <a href="https://youtube.com/HealthaddsBeauty">HealthaddsBeauty</a>
-                        <a href="https://youtube.com/channel/UCt097ds7X7OKjiYaJJuOrjA">Dr Mother</a>
+                        <a href="https://www.facebook.com/jaqulinemathews.mathews">Facebook</a><br>
+                        <a href="https://instagram.com/dr.jaqulinemathews?igshid=YmMyMTA2M2Y=">Instagram</a><br>
+                        <a href="https://youtube.com/HealthaddsBeauty">HealthaddsBeauty</a><br>
+                        <a href="https://youtube.com/channel/UCt097ds7X7OKjiYaJJuOrjA">Dr Mother</a><br>
                       </p>
                     </div>
                   </div>
@@ -748,7 +748,8 @@
           </div>-->
           <div class="col-md-6 col-lg-3">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Have a Questions?</h2>
+              <h2 class="ftco-heading-2">Have a Questions?</h2><br>
+		    <h3 class="ftco-heading-2">(Click the link below)</h3>
               <div class="block-23 mb-3">
                 <ul>
                   <li><a href="https://maps.app.goo.gl/vj2HWi9sFwWQ6VzU9" ><span class="icon fa fa-map marker"></span><span class="text">AVP Peravoor (The Arya Vaidya Pharmacy Ltd,Agency )<br>Kottiyoor Rd, opposite Mount Carmel Ashram, Peravoor, Kerala 670673</span></a></li>
@@ -776,16 +777,16 @@
       $("#submit-form").submit((e)=>{
           e.preventDefault()
           $.ajax({
-              url:"https://script.google.com/macros/s/AKfycbzG0nv_x6GYcCyc0L_UfiLxvKGZfTQz2S_5wBVQ9g/exec",
+              url:"",
               data:$("#submit-form").serialize(),
               method:"post",
               success:function (response){
                   alert("Thank you for getting in touch! Have a great day ahead! Reach you soon😊")
                   window.location.reload()
-                  // window.location.href="https://arshaljo24.github.io/myp/"
+                  window.location.href="#home"
               },
               error:function (err){
-                  alert("Connecting to ADMIN..........Connection fail,Try again.")
+                  alert("Connection failed . Try again")
   
               }
           })
